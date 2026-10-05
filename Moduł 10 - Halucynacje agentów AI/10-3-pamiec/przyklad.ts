@@ -1,4 +1,4 @@
-// 7.2 - Pamiec miedzy sesjami
+// 10.3 - Pamiec miedzy sesjami
 //
 // Kontekst zyje jedna sesje i przepada. Pamiec to zapis na zewnatrz, ktory
 // przezywa restart. Najprostsza pamiec, jaka dziala, to nie baza wektorowa -

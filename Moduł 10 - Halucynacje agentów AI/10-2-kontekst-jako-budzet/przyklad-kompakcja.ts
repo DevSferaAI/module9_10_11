@@ -1,4 +1,4 @@
-// 7.1 - Kontekst jako budzet (kompakcja w trakcie sesji)
+// 10.2 - Kontekst jako budzet (kompakcja w trakcie sesji)
 //
 // Budujemy dluga rozmowe i mierzymy tokeny wejsciowe. Potem zwijamy stare tury
 // w JEDNO zdanie podsumowania i mierzymy znowu. Widac spadek, a ciaglosc

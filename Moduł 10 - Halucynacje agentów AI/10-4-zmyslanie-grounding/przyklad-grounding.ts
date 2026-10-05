@@ -1,4 +1,4 @@
-// 7.3 - Grounding (RAG w miniaturze + wymuszony cytat)
+// 10.4 - Grounding (RAG w miniaturze + wymuszony cytat)
 //
 // Nie kazemy modelowi ZNAC odpowiedzi. Podajemy mu material i mowimy: odpowiadaj
 // TYLKO z tego, i wskaz, z ktorego zrodla. Wtedy kazda odpowiedz da sie

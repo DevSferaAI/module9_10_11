@@ -1,4 +1,4 @@
-// 7.1 - Kontekst jako budzet
+// 10.2 - Kontekst jako budzet
 //
 // Model nie ma pamieci. Za kazdym razem dostaje CALA rozmowe od nowa. Prowadzimy
 // wiec zwykla rozmowe tura po turze i drukujemy tokeny wejsciowe. Widac, jak

@@ -1,4 +1,4 @@
-// 7.4 - Weryfikacja i evale
+// 10.5 - Weryfikacja i evale
 //
 // "Dziala u mnie" to nie dowod. Dokladamy warstwe, ktora sprawdza wynik ZA nas:
 //   1) LLM jako sedzia - drugi model, swiezy kontekst, ocenia wedlug rubryki

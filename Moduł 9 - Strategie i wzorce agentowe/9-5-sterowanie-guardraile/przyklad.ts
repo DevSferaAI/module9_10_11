@@ -1,4 +1,4 @@
-// 6.4 - Sterowanie i guardraile
+// 9.5 - Sterowanie i guardraile
 //
 // Petla bez hamulcow kreci sie, az skonczy sie budzet - albo zrobi cos
 // nieodwracalnego. Zakladamy hamulce:

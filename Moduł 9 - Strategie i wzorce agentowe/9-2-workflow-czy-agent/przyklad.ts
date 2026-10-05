@@ -1,4 +1,4 @@
-// 6.1 - Workflow czy agent?
+// 9.2 - Workflow czy agent?
 //
 // Ten sam problem rozwiazany dwa razy:
 //   A) workflow - dwa ustalone kroki, jedno po drugim

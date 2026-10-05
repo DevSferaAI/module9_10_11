@@ -1,4 +1,4 @@
-// 6.5 - Multi-agent: wzorzec SUPERVISOR (orkiestrator-wykonawcy)
+// 9.6 - Multi-agent: wzorzec SUPERVISOR (orkiestrator-wykonawcy)
 //
 // Orkiestrator podejmuje jedna decyzje: na jakie sekcje podzielic material.
 // Potem wykonawcy pisza swoje sekcje ROWNOLEGLE - kazdy zna tylko swoj kawalek,

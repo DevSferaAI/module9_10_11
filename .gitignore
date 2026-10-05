@@ -1,0 +1,6 @@
+node_modules/
+.env
+*.log
+.DS_Store
+# artefakt dema z lekcji 10.3 - tworzony przy uruchomieniu
+Moduł 10 - Halucynacje agentów AI/10-3-pamiec/pamiec.json

@@ -1,4 +1,4 @@
-// 6.2 - Wzorzec: EWALUATOR-OPTYMALIZATOR
+// 9.3 - Wzorzec: EWALUATOR-OPTYMALIZATOR
 //
 // Jeden model tworzy, drugi ocenia wedlug jasnego kryterium i odsyla z uwagami.
 // Petla krazy, az wynik przejdzie - albo do limitu iteracji (zabezpieczenie

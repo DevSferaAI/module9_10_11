@@ -9,5 +9,9 @@
     "types": ["node"],
     "noEmit": true
   },
-  "include": ["modul-06/**/*.ts", "modul-07/**/*.ts", "lib/**/*.ts"]
+  "include": [
+    "Moduł 9 - Strategie i wzorce agentowe/**/*.ts",
+    "Moduł 10 - Halucynacje agentów AI/**/*.ts",
+    "lib/**/*.ts"
+  ]
 }

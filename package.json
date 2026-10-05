@@ -1,22 +1,22 @@
 {
-  "name": "agent-studio-modul-6-7",
+  "name": "module9-10-11",
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "Przyklady kodu do kursu AI with Agent Studio - moduly 6 i 7. Sklonuj, wpisz klucz API i odpalaj.",
+  "description": "Przyklady kodu do kursu AI with Agent Studio - moduly 9, 10 i 11. Sklonuj, wpisz klucz API i odpalaj.",
   "scripts": {
-    "6.1": "tsx modul-06/6-1-workflow-czy-agent/przyklad.ts",
-    "6.2:routing": "tsx modul-06/6-2-piec-wzorcow/routing.ts",
-    "6.2:ewaluator": "tsx modul-06/6-2-piec-wzorcow/ewaluator.ts",
-    "6.3": "tsx modul-06/6-3-anatomia-petli/przyklad.ts",
-    "6.4": "tsx modul-06/6-4-sterowanie-guardraile/przyklad.ts",
-    "6.5": "tsx modul-06/6-5-multi-agent/przyklad.ts",
-    "7.1": "tsx modul-07/7-1-kontekst-jako-budzet/przyklad.ts",
-    "7.1:kompakcja": "tsx modul-07/7-1-kontekst-jako-budzet/przyklad-kompakcja.ts",
-    "7.2": "tsx modul-07/7-2-pamiec/przyklad.ts",
-    "7.3": "tsx modul-07/7-3-zmyslanie-grounding/przyklad.ts",
-    "7.3:grounding": "tsx modul-07/7-3-zmyslanie-grounding/przyklad-grounding.ts",
-    "7.4": "tsx modul-07/7-4-evale-observability/przyklad.ts"
+    "9.2": "tsx \"Moduł 9 - Strategie i wzorce agentowe/9-2-workflow-czy-agent/przyklad.ts\"",
+    "9.3:routing": "tsx \"Moduł 9 - Strategie i wzorce agentowe/9-3-piec-wzorcow/routing.ts\"",
+    "9.3:ewaluator": "tsx \"Moduł 9 - Strategie i wzorce agentowe/9-3-piec-wzorcow/ewaluator.ts\"",
+    "9.4": "tsx \"Moduł 9 - Strategie i wzorce agentowe/9-4-anatomia-petli/przyklad.ts\"",
+    "9.5": "tsx \"Moduł 9 - Strategie i wzorce agentowe/9-5-sterowanie-guardraile/przyklad.ts\"",
+    "9.6": "tsx \"Moduł 9 - Strategie i wzorce agentowe/9-6-multi-agent/przyklad.ts\"",
+    "10.2": "tsx \"Moduł 10 - Halucynacje agentów AI/10-2-kontekst-jako-budzet/przyklad.ts\"",
+    "10.2:kompakcja": "tsx \"Moduł 10 - Halucynacje agentów AI/10-2-kontekst-jako-budzet/przyklad-kompakcja.ts\"",
+    "10.3": "tsx \"Moduł 10 - Halucynacje agentów AI/10-3-pamiec/przyklad.ts\"",
+    "10.4": "tsx \"Moduł 10 - Halucynacje agentów AI/10-4-zmyslanie-grounding/przyklad.ts\"",
+    "10.4:grounding": "tsx \"Moduł 10 - Halucynacje agentów AI/10-4-zmyslanie-grounding/przyklad-grounding.ts\"",
+    "10.5": "tsx \"Moduł 10 - Halucynacje agentów AI/10-5-evale-observability/przyklad.ts\""
   },
   "dependencies": {
     "openai": "^7.8.0"

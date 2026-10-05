@@ -1,4 +1,4 @@
-// 6.2 - Wzorzec: ROUTING
+// 9.3 - Wzorzec: ROUTING
 //
 // Najpierw klasyfikujemy pytanie, potem kierujemy je do wlasciwej sciezki.
 // Proste pytanie -> tani model i krotka odpowiedz. Trudne -> mocniejszy model

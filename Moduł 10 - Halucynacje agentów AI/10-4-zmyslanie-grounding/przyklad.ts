@@ -1,4 +1,4 @@
-// 7.3 - Dlaczego agenty zmyslaja
+// 10.4 - Dlaczego agenty zmyslaja
 //
 // Model zawsze generuje najbardziej prawdopodobna kontynuacje. "Nie wiem"
 // rzadko nia jest - dlatego pewnym tonem potrafi podac fakt, ktorego nie ma.

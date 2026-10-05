@@ -1,4 +1,4 @@
-// 6.3 - Anatomia petli agenta
+// 9.4 - Anatomia petli agenta
 //
 // Agent to nie magia - to jedna petla powtarzana az do skutku:
 //   mysl -> narzedzie -> obserwacja -> decyzja
